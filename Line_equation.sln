@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line_equation", "Line_equation\Line_equation.csproj", "{2BE57973-A3A7-458E-BF38-DC898D5B2022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line_equationTests", "Line_equationTests\Line_equationTests.csproj", "{611DB964-2ACD-476F-BF14-03FF84076AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE57973-A3A7-458E-BF38-DC898D5B2022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE57973-A3A7-458E-BF38-DC898D5B2022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE57973-A3A7-458E-BF38-DC898D5B2022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE57973-A3A7-458E-BF38-DC898D5B2022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611DB964-2ACD-476F-BF14-03FF84076AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611DB964-2ACD-476F-BF14-03FF84076AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611DB964-2ACD-476F-BF14-03FF84076AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611DB964-2ACD-476F-BF14-03FF84076AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0AB590-BB68-4EDE-BA74-2CA4642C1CBD}
+	EndGlobalSection
+EndGlobal
